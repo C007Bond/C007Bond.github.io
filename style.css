@@ -110,7 +110,7 @@ section .title::after{
 
 .home{
     display: flex;
-    background: url("C:/uid portfolio/image/back.jpeg") no-repeat center;
+    background: url("back.jpeg") no-repeat center;
     height: 100vh;
     color: rgb(255, 255, 255);
     min-height: 500px;
